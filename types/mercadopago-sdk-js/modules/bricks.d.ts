@@ -109,6 +109,7 @@ declare namespace bricks {
         showExternalReference?: boolean;
         hideStatusDetails?: boolean;
         hideTransactionDate?: boolean;
+        hidePixQrCode?: boolean;
         buttonBackground?: WalletButtonBackground;
         borderRadius?: string;
         valuePropColor?: WalletButtonValuePropColor;
